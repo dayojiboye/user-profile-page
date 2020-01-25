@@ -1,0 +1,23 @@
+.container {
+    background-color: #65042C;
+    width: 60%;
+    margin: auto;
+    box-shadow: 0 0 5px gray;
+    color: white;
+    padding: 20px;
+}
+
+section {
+   display: flex;
+}
+
+.profile-picture {
+    width: 50%;
+    margin-right: 20px;
+    object-fit: cover;
+}
+
+h6 {
+    color: #A59D88;
+    margin: 0;
+}
